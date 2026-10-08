@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fff9ee"/>
+  <rect x="120" y="520" width="960" height="60" fill="#d3e3ef"/>
+  <path d="M180 520L300 280l130 240ZM430 520L560 260l120 260ZM680 520L810 340l120 180Z" fill="#ffb703" opacity="0.8"/>
+  <path d="M240 520h720" stroke="#0b7c68" stroke-width="12" stroke-linecap="round"/>
+  <path d="M470 250l60-120 60 120" fill="none" stroke="#0b7c68" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M770 290l60-120 60 120" fill="none" stroke="#0b7c68" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="640" font-size="44" text-anchor="middle" fill="#0f2238" font-family="Arial, sans-serif">Paneles solares</text>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Energía Hogar España</title>
+    <link>https://www.energiahogarespana.com</link>
+    <description>Guías, comparativas y calculadoras sobre electricidad doméstica en España.</description>
+    <language>es-es</language>
+    <item>
+      <title>Cuánto consume un frigorífico y cómo calcularlo en casa</title>
+      <link>https://www.energiahogarespana.com/articles/cuanto-consume-un-frigorifico</link>
+      <description>Entiende el consumo real del frigorífico y estima su coste anual con ejemplos prácticos.</description>
+    </item>
+    <item>
+      <title>Cuánto consume un aire acondicionado y cómo reducir su coste</title>
+      <link>https://www.energiahogarespana.com/articles/cuanto-consume-un-aire-acondicionado</link>
+      <description>Analizamos potencia, horas de uso y tarifa para saber cuánto cuesta climatizar la vivienda.</description>
+    </item>
+  </channel>
+</rss>

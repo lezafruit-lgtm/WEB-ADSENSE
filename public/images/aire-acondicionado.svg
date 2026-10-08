@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#eef7ff"/>
+  <rect x="180" y="200" width="840" height="340" rx="30" fill="#dfeeff"/>
+  <rect x="220" y="240" width="760" height="260" rx="24" fill="#ffffff"/>
+  <path d="M350 350h500" stroke="#0b7c68" stroke-width="20" stroke-linecap="round"/>
+  <path d="M370 290l70 120 80-120 80 120 80-120" fill="none" stroke="#0b7c68" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="440" r="34" fill="#0b7c68" fill-opacity="0.2"/>
+  <circle cx="770" cy="440" r="34" fill="#0b7c68" fill-opacity="0.2"/>
+  <text x="600" y="640" font-size="44" text-anchor="middle" fill="#0f2238" font-family="Arial, sans-serif">Aire acondicionado</text>
+</svg>
